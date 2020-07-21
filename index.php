@@ -100,7 +100,7 @@
       <li class="nav-item active">
         <a class="nav-link" href="index.html">
           <i class="fas fa-chart-line"></i>
-          <span>Pendaftaran Pasien</span>
+          <span>Pendaftaran Pasin</span>
         </a>
       </li>
       <li class="nav-item active">
